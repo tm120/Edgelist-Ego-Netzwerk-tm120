@@ -1,0 +1,11 @@
+from,to,weight,relation
+Theresa Moretti,Jutta Moretti,3,1
+Theresa Moretti,Max Moretti,3,1
+Max Moretti,Jutta Moretti,3,1
+Theresa Moretti,Madleen Rusteberg,3,2
+Theresa Moretti,Leonie Hartmann,3,2
+Jutta Moretti,Maadleen Rusteberg,1,3
+Jutta Moretti,Leonie Hartmann,1,3
+Max Moretti,Madleen Rusteberg,1,3
+Max Moretti,Leonie Hartmann,1,3
+
